@@ -1,0 +1,916 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Apple Silicon Macs Now Natively Support Unreal Engine 5",
+    "description": "Epic Games has released a new update for Unreal Engine 5 that allows it to run natively on Apple Silicon. With the recent update, Mac users will no longer have to rely on Rosetta technology in order to run the software, resulting in a significant boost in per…",
+    "url": "https://apple.slashdot.org/story/23/05/12/2032208/apple-silicon-macs-now-natively-support-unreal-engine-5",
+    "urlToImage": "https://a.fsdn.com/sd/topics/mac_64.png",
+    "publishedAt": "2023-05-13T00:45:00Z",
+    "content": "There's more news for Apple users as well. Epic unveiled a new iPad app (below) for virtual productions that works with the Unreal Engine's ICVFX (In-Camera VFX) editor. It offers \"an intuitive touch… [+841 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Linda Codega",
+    "title": "The Writers Strike Has the Power and the Determination to Keep Going",
+    "description": "Photo: Linda Codega/io9\r\nThe scene at 33rd and 10th was anticipatory; everyone was ready for this. Earlier this week, in “the canyon” between the HBO offices and Amazon headquarters in New York City’s Hell’s Kitchen, a massive group of marchers picketed for n…",
+    "url": "https://gizmodo.com/writers-strike-nyc-adam-scott-bob-odenkirk-wga-picket-1850433920",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/28e7df0bc1b61064722582e866fd2f40.jpg",
+    "publishedAt": "2023-05-13T00:00:00Z",
+    "content": "The scene at 33rd and 10th was anticipatory; everyone was ready for this. Earlier this week, in the canyon between the HBO offices and Amazon headquarters in New York Citys Hells Kitchen, a massive g… [+8752 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "三浦一紀",
+    "title": "素人から人気マンガ家に！ iPadで始めるマンガの描き方",
+    "description": "Photo:三浦一紀ゼロから始める、iPadで始める。『ゴミ清掃員の日常』というマンガ、知っていますか？お笑いコンビ「マシンガンズ」の滝沢秀一さんが、自身の経験を基に原作を担当している、人気タイトルです。その作画を担当しているのが、妻である滝沢友紀さん。実はマンガなんかまったく描いたことがなかったそうですが、今では人気マンガ家に。5月30日には、新刊『ゴミ清掃員の日常ミライ編』も発売されます。滝沢",
+    "url": "https://www.gizmodo.jp/2023/05/ipad-yuki-takizawa-today-at-apple.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/DSC_0254-2.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-05-13T03:30:00Z",
+    "content": "ExclusiveOmoinotake - \r\n519 6:00 7:15\r\nApple MusicUp NextOmoinotake\r\n Apple\r\nExclusive\r\n525 6:00 7:00\r\nApple\r\n530 6:00 7:30\r\nApple Books\r\nApple"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Bruce Haring",
+    "title": "Michael J. Fox Says Key ‘Once Upon A Time…In Hollywood’ Scene Led To His Retirement",
+    "description": "A scene in Quentin Tarantino’s Once Upon a Time…In Hollywood resonated with Michael J. Fox and came rushing back when he decided to retire from acting in 2020. Speaking to Empire Magazine, Fox said he — like the Tarantino film’s Rick Dalton character (played …",
+    "url": "https://deadline.com/2023/05/michael-j-fox-says-key-once-upon-a-time-in-hollywood-scene-led-to-retirement-1235365678/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/image003-1.jpg?w=508",
+    "publishedAt": "2023-05-13T03:53:48Z",
+    "content": "A scene in Quentin Tarantino’s Once Upon a Time…In Hollywood resonated with Michael J. Fox and came rushing back when he decided to retire from acting in 2020.\r\nSpeaking to Empire Magazine, Fox said … [+784 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Sascha Lehnartz",
+    "title": "Robert Habecks große Empathie für sich selbst",
+    "description": "Es war nicht die Woche von Robert Habeck. Der Fall Patrick Graichen brachte ihn an die Grenze seiner Darstellungskunst. Und was Graichen selbst angeht: Der bewegt sich auf einem energiepolitisch und ästhetischen Sonderweg. Um die unrunde Woche des Wirtschafts…",
+    "url": "https://www.welt.de/podcasts/article245299948/Robert-Habecks-grosse-Empathie-fuer-sich-selbst-Podcast.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/mobile244603002/1141356217-ci16x9-w1200/DWO-Podcast-Teaser-KOPDBDT-waswar-lehnartz-2zu3.jpg",
+    "publishedAt": "2023-05-13T03:56:57Z",
+    "content": "Abonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts, Amazon Music oder direkt per RSS-Feed.\r\nUkraine-Krieg, Ampelregierung und Energie-Krise jeden Morgen gibt es neue Schlagzeilen. I… [+779 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Basicthinking.de"
+    },
+    "author": "Maria Gramsch",
+    "title": "iPhone auf Werkseinstellungen zurücksetzen – so geht’s",
+    "description": "Du willst dein altes iPhone weiterverkaufen oder recyceln lassen? Dann solltest du vorher unbedingt alle deine Daten von dem Gerät entfernen. Wir zeigen dir, wie du dein iPhone auf die Werkseinstellungen zurücksetzen kannst. Die Deutschen horten rund 210 Mill…",
+    "url": "https://www.basicthinking.de/blog/2023/05/13/iphone-auf-werkseinstellungen-zuruecksetzen/",
+    "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2023/04/iphone-auf-werkseinstellungen-zuruecksetzen.jpg",
+    "publishedAt": "2023-05-13T03:50:42Z",
+    "content": "Du willst dein altes iPhone weiterverkaufen oder recyceln lassen? Dann solltest du vorher unbedingt alle deine Daten von dem Gerät entfernen. Wir zeigen dir, wie du dein iPhone auf die Werkseinstellu… [+2806 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Jane Levere, Contributor, \n Jane Levere, Contributor\n https://www.forbes.com/sites/janelevere/",
+    "title": "PBS ‘Great Performances’ Kicks Off ‘Broadway’s Best’ Series Of Programs With Star-Studded Concert",
+    "description": "To celebrate PBS’ Great Performances’ 50th anniversary season, the series tonight is kicking off a \"Broadway’s Best\" schedule of programs featuring what it describes as \"dazzling musical numbers and high drama.\"",
+    "url": "https://www.forbes.com/sites/janelevere/2023/05/12/pbs-great-performances-kicks-off-broadways-best-series-of-programs-with-star-studded-concert/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/645edcb758cf22860aa69866/0x0.jpg?format=jpg&crop=3000,1998,x0,y0,safe&width=1200",
+    "publishedAt": "2023-05-13T00:43:19Z",
+    "content": "To celebrate PBS Great Performances 50th anniversary season, the series tonight is kicking off a Broadways Bestschedule of programs featuring what it describes as dazzling musical numbers and high dr… [+4041 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Osnews.com"
+    },
+    "author": "Thom Holwerda",
+    "title": "Has Apple sounded the last POST?",
+    "description": "Power-on self-tests (POST) are widely used in electronics, and one of the oldest features of personal computers. Every model of Mac in the past has had its own POST routines, some that have become famous because of the sounds that result, or what’s displayed,…",
+    "url": "https://www.osnews.com/story/136132/has-apple-sounded-the-last-post/",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T00:55:27Z",
+    "content": "Power-on self-tests (POST) are widely used in electronics, and one of the oldest features of personal computers. Every model of Mac in the past has had its own POST routines, some that have become fa… [+288 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Tuanhtran), Tuanhtran",
+    "title": "Dự đoán: macOS 14 sẽ sử dụng cái tên nào?",
+    "description": "Như anh em cũng đã biết thì gần như chắc chắn Apple sẽ cho ra mắt macOS 14 theo lịch trình thường niên tại WWDC sắp tới. Dạo thời gian gần đây có rất nhiều đồn đoán xung quanh việc Apple sẽ đặt tên cho phiên bản này là gì.",
+    "url": "https://tinhte.vn/thread/du-doan-macos-14-se-su-dung-cai-ten-nao.3668345/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/05/6427658_FE598693-9364-431F-9BA0-22D47D903B74.png",
+    "publishedAt": "2023-05-13T01:06:35Z",
+    "content": "Nh anh em cng ã bit thì gn nh chc chn Apple s cho ra mt macOS 14 theo lch trình thng niên ti WWDC sp ti. Do thi gian gn ây có rt nhiu n oán xung quanh vic Apple s t tên cho phiên bn này là gì. Nm ngo… [+1713 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cult of Mac"
+    },
+    "author": "Scout Tafoya",
+    "title": "Drops of God uncorks some doozies this week [Apple TV+ recap] ★★★★☆",
+    "description": "Drops of God, the impressive new Apple TV+ series about an impossible contest to determine the winner of a fortune in wine, brings us to our second challenge this week. In the episode, entitled “The Link,” Issei deals with the fallout from his father’s latest…",
+    "url": "https://www.cultofmac.com/812902/drops-of-god-apple-tv-recap-the-link/",
+    "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/05/Drops_Of_God_Photo_010502.jpeg",
+    "publishedAt": "2023-05-13T01:00:18Z",
+    "content": "Drops of God, the impressive new Apple TV+ series about an impossible contest to determine the winner of a fortune in wine, brings us to our second challenge this week.\r\nIn the episode, entitled The … [+6863 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "Kevin Fallon",
+    "title": "Bridget Everett on ‘Somebody Somewhere’ Deserves an Emmy Award",
+    "description": "HBO\r\nThis is a preview of our pop culture newsletter The Daily Beast’s Obsessed, written by editor Kevin Fallon. To receive the full newsletter in your inbox each week, sign up for it here.This week:Bridget Everett Is Giving a PerformanceRead more at The Dail…",
+    "url": "https://www.thedailybeast.com/obsessed/bridget-everett-is-giving-a-miraculous-tv-performance-on-somebody-somewhere",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683917269/051223-bridget-everett-hero_i5f405",
+    "publishedAt": "2023-05-13T01:47:28Z",
+    "content": "This is a preview of our pop culture newsletter The Daily Beasts Obsessed, written by editor Kevin Fallon. To receive the full newsletter in your inbox each week, sign up for it here.\r\nThis week:\r\nBr… [+5705 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Apple専門店のNEWCOM、SIMフリー版iPhoneと純正ケース同時購入で1,100円オフになるキャンペーンを開催中",
+    "description": "Apple専門店のNEWCOMが、本日からSIMフリー「iPhone」と純正ケースがお得に購入出来るキャンペーンを各店舗で開始しました。 期間中にSIMフリー版の「iPhone」とApple純正のiPhone用ケースを同 ...",
+    "url": "https://taisy0.com/2023/05/13/171770.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/05/th_Fv5nkaeaIAAeI5E.jpg",
+    "publishedAt": "2023-05-13T01:18:57Z",
+    "content": "AppleNEWCOMSIMiPhone\r\nSIMiPhoneAppleiPhone1,100\r\n64iPhoneNEWCOM\r\nNEWCOM kaze4\r\n NEWCOM"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Beatsの新型ワイヤレスイヤホン｢Beats Studio Buds+｣のパッケージ写真 − 米量販店には入荷済み",
+    "description": "AppleはBeatsブランドの新型ワイヤレスイヤホン「Beats Studio Buds+」をまもなく発売することが明らかになっていますが、リーカーのBen Geskin氏が、その「Beats Studio Buds+ ...",
+    "url": "https://taisy0.com/2023/05/13/171767.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/05/BeatsStudioBudspluspakage.jpg",
+    "publishedAt": "2023-05-13T00:50:00Z",
+    "content": "AppleBeatsBeats Studio Buds+Ben GeskinBeats Studio Buds+\r\nBest Buy\r\nBeats Studio Buds+Beats Studio Buds1.624Beats Studio Buds+36\r\n518169.9523,000"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Satechi、対象製品を最大25％オフで販売する母の日セールを開催中",
+    "description": "Satechiが、今週末の母の日に合わせて、対象製品を最大25％オフで販売するセールを開催しています。 SatechiはApple製品向けのアクセサリを多数販売しており、セール対象となっているのは、MacBookシリーズ ...",
+    "url": "https://taisy0.com/2023/05/13/171779.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/05/th_SS-2023-05-13-12.00.12.jpg",
+    "publishedAt": "2023-05-13T03:01:26Z",
+    "content": "3Apple Watch SE (GPS+Cellular) 27,800"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Los Angeles Times"
+    },
+    "author": "Los Angeles Times staff",
+    "title": "High school baseball: Friday's Southern Section playoff results and updated pairings",
+    "description": "High school baseball: Friday's Southern Section playoff results and updated pairings",
+    "url": "https://www.latimes.com/sports/highschool/story/2023-05-12/high-school-baseball-southern-section-playoff-results-friday",
+    "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/ac1975b/2147483647/strip/true/crop/2048x1075+0+0/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff0%2Ff3%2F488f52b347b6ba4a77f978de218a%2Fbaseballs1.png",
+    "publishedAt": "2023-05-13T02:55:44Z",
+    "content": "BASEBALLSOUTHERN SECTIONDIVISION 1Quarterfinals, FridayCorona 2, Sherman Oaks Notre Dame 1 (10)JSerra 6, Sierra Canyon 3Orange Lutheran vs. Villa Park at Hart Park (Orange), 7 p.m.Santa Margarita 9, … [+1718 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple Premium ResellerのC smart、Apple Watch購入でアクセサリプレゼントキャンペーンを実施（5/28まで）",
+    "description": "C smart：ちょっといいニュースです。\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nApple Premium ResellerのC smartが、オンラインストアにて、対象のApple Watch製品とApple Careを同時購入でガラスフィルム一体型ケースをプレゼントする「Apple Watchアクセサリプレゼント」キャンペーンを開始しています。\nキャンペーン期間は2023年5月13日10:00〜2023年5月28日2…",
+    "url": "https://www.macotakara.jp/news/entry-44738.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202305/a86c56102d898d56.jpg",
+    "publishedAt": "2023-05-13T01:24:23Z",
+    "content": "Apple Premium ResellerC smartApple WatchApple CareApple Watch\r\n202351310:00202352823:50"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Nando Sommerfeldt, Holger Zschäpitz",
+    "title": "Der Neubauer-Freibrief und ein CEO für Deutschland",
+    "description": "In dieser Samstags-Episode von „Alles auf Aktien“ reden wir über einen Auftritt, der Hamburg beinahe den Atem geraubt hat. Einen Auftritt beim Mega-OMR-Spektakel, den wir dringend analysieren müssen.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article245300532/Boersen-Podcast-Luisa-Neubauer-AKW-Aus-und-Vier-Tage-Woche-Aufgaben-fuer-den-Deutschland-CEO.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244957744/7081351977-ci16x9-w1200/DWO-Podcast-Teaser-AllesAufAktien-Lena-Zimmermann-Holger-Zschaepitz.jpg",
+    "publishedAt": "2023-05-13T03:01:23Z",
+    "content": "Warum wird Luisa Neubauer kritiklos gefeiert und der Klartexter beinahe von der Bühne geholt? Wer weiß die Antwort besser als unser Gast: Klartexter und AAA-Stammgast persönlich. Wir sprechen mit ihm… [+362 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "Rose Byrne, Seth Rogen, & Luke Macfarlane Attend 'Platonic' Premiere - Watch the Apple TV+ Show's Trailer!",
+    "description": "Apple TV+ has a new comedy series premiering later this month and the cast hit the red carpet this week at the L.A. premiere! Rose Byrne, Seth Rogen, and Luke Macfarlane stepped out for the premiere of their new series Platonic on Wednesday (May 10) at Regal …",
+    "url": "http://www.justjared.com/2023/05/12/rose-byrne-seth-rogen-luke-macfarlane-attend-platonic-premiere-watch-the-apple-tv-shows-trailer/",
+    "urlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/05/platonic-prem.jpg",
+    "publishedAt": "2023-05-13T01:22:09Z",
+    "content": "Apple TV+ has a new comedy series premiering later this month and the cast hit the red carpet this week at the L.A. premiere!\r\nRose Byrne, Seth Rogen, and Luke Macfarlane stepped out for the premiere… [+622 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Rob Freeman",
+    "title": "AI pioneer warns Government offering little defence against threat of technology",
+    "description": "Professor Stuart Russell says ‘stakes couldn’t be higher’ amid rise of super-intelligent machines.",
+    "url": "https://www.independent.co.uk/tech/government-steve-wozniak-chatgpt-white-house-downing-street-b2338062.html",
+    "urlToImage": "https://static.independent.co.uk/2023/05/13/02/21-c204c6995a7a4f04b150b6c9d4bf59cd.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-05-13T01:28:27Z",
+    "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nOne of the pioneers of artificial intelligence has w… [+3009 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "6th-round pick Dante Still signs rookie contract",
+    "description": "The Cardinals have six of their nine draft picks under contract.",
+    "url": "https://cardswire.usatoday.com/2023/05/12/6th-round-pick-dante-still-signs-rookie-contract/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SDzvP6fqKCq0Id8J2NMBXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/2763ae8a86de08a7ab40033f8d10d3a1",
+    "publishedAt": "2023-05-13T01:49:52Z",
+    "content": "A day after inking five of their nine draft picks to contracts, they added another on Friday. The Arizona Cardinals announced they signed defensive tackle Dante Stills to his four-year rookie contrac… [+1053 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "Reuters",
+    "title": "Indexes slip with tech-related shares; consumer sentiment drops",
+    "description": "The Dow Jones Industrial Average fell 8.89 points, or 0.03%, to 33,300.62; the S&amp;P 500 lost 6.54 points, or 0.16%, to 4,124.08; and the Nasdaq Composite dropped 43.76 points, or 0.35%, to 12,284.74.",
+    "url": "https://www.moneycontrol.com/news/business/markets/indexes-slip-with-tech-related-shares-consumer-sentiment-drops-10578721.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/01/Wall-Street_reuters-770x433.jpg",
+    "publishedAt": "2023-05-13T02:33:53Z",
+    "content": "US stocks ended slightly lower on Friday, led by weaker megacap shares following their recent rally, as data showed U.S. consumer sentiment dropped to a six-month low.\r\nThe Dow was barely lower in it… [+2581 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Celtics Wire",
+    "title": "Celtics Lab extra: Talking Game 6 with The Morning Jab",
+    "description": "How much credit should Joe Mazzulla get for the win? How much flak for the near-loss ought Jayson Tatum to receive after a 1-14 run over the game's first three quarters?",
+    "url": "https://celticswire.usatoday.com/2023/05/12/nba-boston-celtics-morning-jab-game-6-quinn/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GdyCFAWmtJlZdNz5PJcZwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/a7a22079580d93d0f787ba6e0818519b",
+    "publishedAt": "2023-05-13T03:12:33Z",
+    "content": "The Boston Celtics found a way to win against the Philadelphia 76ers in Game 6, forcing a Game 7 at TD Garden on Sunday. Was it the increased attention to defense that got the job done for Boston? Ma… [+986 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 7499元包邮（需用券）",
+    "description": "Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 7499元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/79633605/",
+    "urlToImage": "https://qny.smzdm.com/202302/04/63dd35fcfe13d7959.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T01:33:22Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 512GB 快充套装 9428元包邮（需用券）",
+    "description": "Apple 苹果 iPhone 14 Pro 5G智能手机 512GB 快充套装 9428元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/79639548/",
+    "urlToImage": "https://qny.smzdm.com/202212/07/639076ea3fd9e9085.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T03:05:47Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Beats Fit Pro 真无线主动降噪蓝牙耳机 978元包邮（需用券）",
+    "description": "拼多多此款目前活动售价979元，近期好价。",
+    "url": "https://www.smzdm.com/p/79630083/",
+    "urlToImage": "https://qny.smzdm.com/202305/05/6454d41f3545e918.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T00:01:09Z",
+    "content": "Beats Fit Pro/IPX4 \r\n Apple H1 ANC b (ANC) Apple \r\n 5.1 7.1 Apple iCloud Siri iOS Android Beats Fit Pro Beats App \r\n (ANC) Beats Fit Pro 6 USB-C 21 27 7 30 Fast Fuel 5 1"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 7499元包邮（需用券）",
+    "description": "京东此款目前活动售价8599元，下单领取满4000减1100元优惠券，实付低至7499元，近期好价。叠加优惠券：满4000减1100元",
+    "url": "https://www.smzdm.com/p/79630394/",
+    "urlToImage": "https://qny.smzdm.com/202209/08/6319517c0aaec1157.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T00:04:41Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 512GB 9299元包邮（需用券）",
+    "description": "Apple产品京东自营旗舰店此款活动售价10399.00元，下单使用满4000减1100元优惠券，下单1件，实付低至9299.00元，近期好价。叠加优惠券：满4000减1100元",
+    "url": "https://www.smzdm.com/p/79631799/",
+    "urlToImage": "https://qny.smzdm.com/202209/08/631951779481c8483.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T00:35:15Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPad Pro 2022款 11英寸平板电脑 128GB WLAN版 5999元包邮（需用券）",
+    "description": "京东此款目前活动售价6399元，下单领取满5000减400元优惠券，实付低至5999元，近期好价。叠加优惠券：满5000减400元",
+    "url": "https://www.smzdm.com/p/79639376/",
+    "urlToImage": "https://qny.smzdm.com/202305/13/645ede0c90bef8250.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T01:21:22Z",
+    "content": "2021iPad Pro2022Apple M2 8 10M115% 40%50%iPad Pro  3  ProRes 128GB256GB512GB8GB1TB16GB\r\n11 iPad Pro Liquid 600nit120Hz P3 1200ID\r\niPad Pro 202212001000ProRes HDR4\r\niPadOS 16APP\r\n2022 iPad Pro USB 4 4… [+69 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone14 Pro 5G智能手机 256GB 快充套装 7628元包邮（需用券）",
+    "description": "京东此款目前活动售价8728元，下单领取满4000减1100元优惠券，实付低至7628元，近期好价。叠加优惠券：满4000减1100元",
+    "url": "https://www.smzdm.com/p/79639180/",
+    "urlToImage": "https://qny.smzdm.com/202209/08/631951bb98a932280.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T00:50:55Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 1TB 10899元包邮（需用券，六期免息）",
+    "description": "京东此款目前活动售价11999元，下单领取满4000减1100元优惠券，实付低至10899元，近期好价。叠加优惠券：满4000减1100元",
+    "url": "https://www.smzdm.com/p/79630905/",
+    "urlToImage": "https://qny.smzdm.com/202209/08/631951afffdda1165.jpg_d250.jpg",
+    "publishedAt": "2023-05-13T00:13:25Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MMA Fighting"
+    },
+    "author": "MMA Fighting Newswire",
+    "title": "UFC Charlotte preview show: Can Jairzinho Rozenstruik stop the hype train of Jailton Almeida?",
+    "description": "MMA Fighting previews Saturday’s UFC Charlotte event headlined by Jairzinho Rozenstruik taking on the surging Jailton Almeida.",
+    "url": "https://www.mmafighting.com/2023/5/12/23721474/ufc-charlotte-preview-show-can-jairzinho-rozenstruik-stop-the-hype-train-of-jailton-almeida",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/k4MINXxaaW187Yy6A0DudMsnR9E=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24653628/ufc_charlotte_clean.jpg",
+    "publishedAt": "2023-05-13T00:00:00Z",
+    "content": "Jairzinho Rozenstruik looks to stop the incredible hype of Jailton Almeida and pull off a massive upset in the process at Saturday’s UFC Charlotte fight card, but if he can’t, how high up the ladder … [+725 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applech2.com"
+    },
+    "author": "applech2",
+    "title": "Apple、開発者向けに「macOS 13.4 Ventura RC 2 (22F63)」を公開。",
+    "description": "Appleが開発者向けに「macOS 13.4 Ventura RC 2 (22F63)」を公開しています。詳細は以下から。 　Appleは現地時間2023年05月09日、開発者向けに来週にも正式リリースを予定している\nThe post Apple、開発者向けに「macOS 13.4 Ventura RC 2 (22F63)」を公開。 first appeared on AAPL Ch..",
+    "url": "https://applech2.com/archives/20230513-macos-13-4-ventura-rc2-build-22f63-now-available.html",
+    "urlToImage": "https://applech2.com/wp-content/uploads/2023/05/macOS-13-4-RC-2-22F63-now-available.jpg",
+    "publishedAt": "2023-05-13T03:13:21Z",
+    "content": "ApplemacOS 13.4 Ventura RC 2 (22F63)\r\nApple20230509macOS 13.4 Ventura(RC:Release Candidate)macOS 13.4 RC (22F62)0511macOS 13.4 RC 2 (22F63)\r\nMay 11, 2023\r\nReleases Apple Developer\r\nApplemacOS 13.4 RC… [+2013 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Computerwoche.de Live"
+    },
+    "author": "Thomas Hartmann",
+    "title": "MicroLED: Apple plant neue Display-Technologie für iPhones",
+    "description": "Apple plant, in Zukunft ein iPhone mit einem MicroLED-Display auf den Markt zu bringen – das bedeutet mehr Helligkeit, niedrigeren Stromverbrauch sowie ein verbessertes Kontrastverhältnis.",
+    "url": "https://www.computerwoche.de/a/apple-plant-neue-display-technologie-fuer-iphones,3614437?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+    "urlToImage": "https://images.computerwoche.de/bdb/3380242/640x360.jpg",
+    "publishedAt": "2023-05-13T02:07:00Z",
+    "content": "Gerüchten zufolge will Apple in Zukunft OLED- durch MicroLED-Displays ersetzen.Foto: atdigit - shutterstock.com\r\nDas jedenfalls berichtet Macrumors im Anschluss an einen Artikel der taiwanischen Publ… [+1309 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "إيلون ماسك: ملياردير التكنولوجيا يعين ليندا ياكارينو مديرة تنفيذية لشركة تويتر",
+    "description": "بعد أكثر من يوم من تغريدته المبهمة حول تعيين مديرة جديدة لشركة تويتر، إيلون ماسك يكشف في تغريدة جديدة على تويتر عن اسم الرئيسة التنفيذية لمنصة التواصل الاجتماعي.",
+    "url": "https://www.bbc.com/arabic/business-65567257",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/17C8D/production/_129712479_gettyimages-1469401572.jpg",
+    "publishedAt": "2023-05-13T03:55:47Z",
+    "content": "Getty Images\r\n.\r\n NBCUniversal .\r\n .\r\n .\r\n\" \" .\r\n - 44 - .\r\n 500 10 .\r\n .\r\n Turner Entertainment 15 2000 .\r\n - Sex and the City .\r\n Apple News Snapchat YouTube.\r\n 2005 .\r\n \" \".\r\n .\r\n \" \".\r\n \" . \".\r\n … [+112 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "lunatic",
+    "title": "Apple初のMRヘッドセット、WWDC23で発表されるが量産開始は12月",
+    "description": "Appleは同社初の複合現実（MR）ヘッドセットとなる「Reality Pro（仮称）」を、予定通り世界開発者会議（WWDC23）初日となる現地時間6月5日に発表する見通しです。\n \nしかし量産開始時期は12月頃までずれ込むと、米メディアWall Street Journal（WSJ）が報じています。\n6月5日の基調講演での発表が確実視\nAppleのMRヘッドセットについてはすでにさまざまな情報が伝えられており、6月5日の基調講演での発表は確実視されています。外観はスキーゴーグルとよく似た形状で、外付けのバッテリ…",
+    "url": "https://iphone-mania.jp/news-536942/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/03/31/FpF1fdYXoAAaOQM-1.jpeg",
+    "publishedAt": "2023-05-13T03:42:40Z",
+    "content": "AppleMRReality ProWWDC236512Wall Street JournalWSJ65\r\nAppleMR65MRApple612\r\nMR\r\nAppleWWDC23MRWSJAppleWWDC23\r\nMR\r\nMetaVRARAppleAppleWSJWWDC231AppleMR\r\n Source:Wall Street Journal via 9to5MacPhoto:Marcu… [+22 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "te7373",
+    "title": "Beats Studio Buds+スケルトンモデルのパッケージ画像公開",
+    "description": "リーカーのベンジャミン・ジェスキン氏が、Beatsブランドの新型ワイヤレスイヤホンBeats Studio Buds+のパッケージ画像を公開しました。\n米国の量販店に入荷済み\n公開されたのは、Beats Studio Buds+スケルトンモデルのパッケージ画像です。\n \nジェスキン氏は、Beats Studio Buds+がすでに米国の量販店Best Buyに入荷済であると語っています。\n \n\nExclusive: Beats Studio Buds+ arrived at Best Buy pic.twitte…",
+    "url": "https://iphone-mania.jp/news-536908/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/05/13/BeatsStudioBuds.jpg",
+    "publishedAt": "2023-05-13T02:06:04Z",
+    "content": "BeatsBeats Studio Buds+\r\nBeats Studio Buds+Beats Studio Buds+Best Buy\r\nExclusive: Beats Studio Buds+ arrived at Best Buy pic.twitter.com/dCcHH2z1pF\r\n— Ben Geskin (@BenGeskin) May 12, 2023\r\nBeats Stud… [+254 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "m7000",
+    "title": "米コロナ緊急事態宣言終了で、多くのiPhoneユーザーに「接触通知オフ」の通知が届く",
+    "description": "AppleはiOS16.4で、公衆衛生当局に対して新型コロナウイルス感染症（COVID-19）の接触追跡を可能にする「Exposure Notifications API」のサポートを終了できるオプションを用意しました。\n \nそして今回、米国でCOVID-19の国家緊急事態宣言が5月11日に解除されたことに伴い、多くの米iPhoneユーザーが、自分の住む地域で接触通知が無効になったことを知らせるプッシュ通知を受け取っていることが明らかとなりました。\nCOVID-19に関する公衆衛生上の緊急事態宣言が5月11日に終…",
+    "url": "https://iphone-mania.jp/news-536905/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/03/22/exposure-notification-og-1.jpg",
+    "publishedAt": "2023-05-13T03:10:35Z",
+    "content": "AppleiOS16.4COVID-19Exposure Notifications APICOVID-19511iPhoneCOVID-19511\r\nCOVID-19511iPhoneiOS16.4COVID-19iPhone\r\nCOVID-19COVID-19Exposure NotificationsCOVID-19COVID-19COVID-192023511511COVID-19GPS… [+224 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sopitas.com"
+    },
+    "author": "Andrés Vilchis",
+    "title": "6 puntos para entrarle a ‘Still: A Michael J. Fox Movie’ en Apple TV+",
+    "description": "Después de mucho tiempo, uno pensaría que conoce bastante sobre la vida del hombre que encarnó a Marty McFly en la saga de Back to the...\nThe post 6 puntos para entrarle a ‘Still: A Michael J. Fox Movie’ en Apple TV+ appeared first on Sopitas.com.",
+    "url": "https://www.sopitas.com/cine-y-tv/6-puntos-debes-ver-still-a-michael-j-fox-movie-apple-tv-plus/",
+    "urlToImage": "https://www.sopitas.com/wp-content/uploads/2023/05/6-puntos-debes-ver-still-a-michael-j-fox-movie-apple-tv-plus-1.jpg",
+    "publishedAt": "2023-05-13T00:43:57Z",
+    "content": "Después de mucho tiempo, uno pensaría que conoce bastante sobre la vida del hombre que encarnó a Marty McFly en la saga de Back to the Future, pero no es así. Y es por eso queStill: A Michael J. Fox … [+7418 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Rg.ru"
+    },
+    "author": null,
+    "title": "Адвокат Карабанов предупредил об уголовной ответственности за покупку некоторых товаров в интернете",
+    "description": "Онлайн-магазины предлагают сегодня огромный ассортимент разнообразных товаров. Однако далеко не все безопасно покупать в интернете. Существует ряд товаров, покупка которых чревата солидными денежными штрафами и даже лишением свободы, предупреждает адвокат Але…",
+    "url": "https://rg.ru/2023/05/13/advokat-karabanov-predupredil-ob-ugolovnoj-otvetstvennosti-za-pokupku-nekotoryh-tovarov-v-internete.html",
+    "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/05/13/ria_1110893hr_642.jpg",
+    "publishedAt": "2023-05-13T02:00:05Z",
+    "content": ", , , . , , .\r\n\" , , , . . .228 () .229 (). - 20 . - , - . , , 40 . 3 .234 \", - \" \" .\r\n . , , .16.3 , , .14.10 , . , 1,5-2 . . , . 2019 , , 41 Apple. 100 . . , .\r\n , . \" .138.1 , , - 200 . , 4 , . . … [+118 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gitee.com"
+    },
+    "author": null,
+    "title": "Gitee 推荐 | Excelize 基础库的 WebAssembly/Javascript 实现 Excelize-wasm",
+    "description": "Excelize-wasm 是 Excelize 基础库的 WebAssembly / Javascript 实现，可用于操作 Office Excel 文档，可以使用它来读取、写入由 MS Excel 2007 及以上版本创建的电子表格文档。支持 XLAM / XLSM / XLSX / XLTM / XLTX 等多种文档格式，高度兼容带有样式、图片(表)、透视表、切片器等复杂组件的文档。...",
+    "url": "https://gitee.com/xurime/excelize-wasm",
+    "urlToImage": "https://foruda.gitee.com/avatar/1676905986896962094/336552_xurime_1642839958.png",
+    "publishedAt": "2023-05-13T00:07:36Z",
+    "content": "Excelize-wasm is a pure WebAssembly / Javascript port of Go Excelize library that allow you to write to and read from XLAM / XLSM / XLSX / XLTM / XLTX files. Supports reading and writing spreadsheet … [+6259 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ledevoir.com"
+    },
+    "author": "redaction@ledevoir.com (Le Devoir)",
+    "title": "Si vous les avez manqués",
+    "description": "Une sélection de nos meilleurs contenus de la semaine.",
+    "url": "https://www.ledevoir.com/societe/791007/sans-titre",
+    "urlToImage": "https://media1.ledevoir.com/images_galerie/nwd_1495524_1150438/image.jpg?ts=1683937363",
+    "publishedAt": "2023-05-13T00:22:43Z",
+    "content": "<li>À lEurovision, La Zarra et la machine\r\nTrente-cinq ans après la victoire dune Céline Dion défendant les couleurs de la Suisse avec la chanson Ne partez pas sans moi, lartiste québécoise La Zarra … [+2498 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【新刊】「iPodの父」トニー・ファデルの著書の日本語版「BUILD 真に価値あるものをつくる型破りなガイドブック」5月23日発売",
+    "description": "早川書房からトニー・ファデル著「BUILD 真に価値あるものをつくる型破りなガイドブック」が、5月23日に発売されます。 iPodの発案者として知られ、iPhoneの開発にも携わった元Apple役員のトニー・ファデル氏に...\nThe post 【新刊】「iPodの父」トニー・ファデルの著書の日本語版「BUILD 真に価値あるものをつくる型破りなガイドブック」5月23日発売 first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/05/tony-fadell-buil-japanse-edition.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/05/230513tonyfadellbuild.jpg",
+    "publishedAt": "2023-05-13T00:00:01Z",
+    "content": "早川書房からトニー・ファデル著「BUILD 真に価値あるものをつくる型破りなガイドブック」が、5月23日に発売されます。\n\niPodの発案者として知られ、iPhoneの開発にも携わった元Apple役員のトニー・ファデル氏による、ものづくりの指南書です。\n翻訳は土方奈美です。\n\n5月26日発売です。\n価格は税込2,860円です。\n出版社の詳細ページ：ＢＵＩＬＤ──真に価値あるものをつくる型破りなガ… [+328 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tokka.shop"
+    },
+    "author": "激安特価マン",
+    "title": "【MFi認証】BGQQ USB-C to Lightningケーブル 1.8m×3本 PD 20W対応 909円（303円/本）送料無料！【おまけ付き？】",
+    "description": "Apple MFi認証を取得したUSB-C to  Lightningケーブルで全てのLigtning付きのデバイスに対応しています。20WのPower Delivery規格に対応しており, 最大3Aまでの高出力をサポート、iPhone 12なら、30分間で50%充電可能。充電だけでなく、480Mbpsの高速同期転送も実現。0.9Mケーブル1本おまけと記載がありますが先着のようです。5月31日までリンク先の30％オフクーポン利用でタイトルの価格になります（早期終了することがあります）...",
+    "url": "https://blog.tokka.shop/e/135578",
+    "urlToImage": "https://static.fc2.com/image/noimage.gif",
+    "publishedAt": "2023-05-13T01:53:32Z",
+    "content": "Apple MFiUSB-C to LightningLigtning\r\n20WPower Delivery, 3AiPhone 123050%480Mbps\r\n0.9M153130 or 350 or 2,000()"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Ai cũng muốn kiểm soát Big Tech và mạng xã hội nhưng có làm nổi?",
+    "description": "Các nước Anh, Mỹ và cả Liên minh châu Âu đều muốn kiểm soát Big Tech nhưng chưa đạt kết quả gì đáng kể.",
+    "url": "https://www.bbc.com/vietnamese/business-65571393",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/0733/production/_108834810_68769465_115965539763540_476862316135055360_n.jpg",
+    "publishedAt": "2023-05-13T02:48:41Z",
+    "content": "Chp li hình nh, T 17/03/2023, luât DSA ca EU có hiêu lc, nhm \"chn chnh\" các i gia công nghê\r\nT cui nm nay, Vit Nam s áp dng phn sa i Luât Vin thông, buc ngi dùng mng xã hi ca c các nn tng trong và ng… [+8743 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "Appleの大注目のヘッドセット「Reality Pro」、 発売日と生産上の課題",
+    "description": "WWDCがまもなく始まる前に、Wall Street Journalが新しい報告書を発表し、Appleの「Reality Pro」ヘッドセットの多くの詳細を裏付けています 報告書は、「関係者による」と引用し、AR/VRヘッドセットがスキーゴーグルのようなデザイン、外部のバッテリーパックなどを特徴とすることを裏付けています Wall Street Journalによる今日の報告書は、以前にBloomberg、The Information、Ming-Chi Kuo氏などの他の情報源からも報告されていた詳細を裏付けて…",
+    "url": "https://minatokobe.com/wp/apple/post-89677.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/05/Reality-Pro.jpg",
+    "publishedAt": "2023-05-13T01:07:53Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Wccftech"
+    },
+    "author": "Ali Salman",
+    "title": "Apple Watch Helped Save Lives of Two Individuals With Fall Detection Feature",
+    "description": "Apple is consistently working on the Apple Watch's health features and the wearable has come a long way. The device is years ahead of the competition as far as the […]\nWritten by Ali Salman",
+    "url": "https://wccftech.com/apple-watch-fall-detection-saves-lives/",
+    "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/05/APple-Watch.jpg",
+    "publishedAt": "2023-05-13T00:30:19Z",
+    "content": "Apple is consistently working on the Apple Watch's health features and the wearable has come a long way. The device is years ahead of the competition as far as the technology is concerned and how use… [+2088 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "wsj.com",
+    "title": "More »",
+    "description": "Apple is about to unveil its strangest product ever—and it's breaking a bunch of its cardinal rules in the process #apple",
+    "url": "https://biztoc.com/x/c7ff70b529231207",
+    "urlToImage": "https://c.biztoc.com/192/og.png",
+    "publishedAt": "2023-05-13T01:20:05Z",
+    "content": "Apple is about to unveil its strangest product ever&amp;#x2014;and it&amp;#x27;s breaking a bunch of its cardinal rules in the process \r\n#apple\r\n This story appeared on wsj.com, 2023-05-13."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "wsj.com",
+    "title": "Apple Is Breaking Its Own Rules With a New Headset",
+    "description": "Apple in the coming weeks is expected to unveil what is perhaps the most experimental, unconventional product in its history: a so-called mixed-reality headset that resembles a pair of ski goggles and comes with a battery pack, people familiar with the matter…",
+    "url": "https://biztoc.com/x/4b6ce0016e5c2614",
+    "urlToImage": "https://c.biztoc.com/p/4b6ce0016e5c2614/og.webp",
+    "publishedAt": "2023-05-13T02:50:08Z",
+    "content": "Apple in the coming weeks is expected to unveil what is perhaps the most experimental, unconventional product in its history: a so-called mixed-reality headset that resembles a pair of ski goggles an… [+237 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "entrepreneur.com",
+    "title": "Jay-Z Wants to Open a Casino in the Heart of Times Square",
+    "description": "The rap mogul has partnered with Ceasars Entertainment to bid for New York City's only gaming license. The Big Apple is about to roll the dice on gambling, and many billionaire investors want to try their luck at winning the big prize. Elected officials have …",
+    "url": "https://biztoc.com/x/6aa08d69c192fdf2",
+    "urlToImage": "https://c.biztoc.com/p/6aa08d69c192fdf2/og.webp",
+    "publishedAt": "2023-05-13T01:28:04Z",
+    "content": "The rap mogul has partnered with Ceasars Entertainment to bid for New York City's only gaming license.The Big Apple is about to roll the dice on gambling, and many billionaire investors want to try t… [+332 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "billboard.com",
+    "title": "Michael J. Fox Details Parkinson’s Battle in ‘Still’: How to Watch the Movie for Free",
+    "description": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes. Michael J. Fox gives an…",
+    "url": "https://biztoc.com/x/55092303dd86f5cd",
+    "urlToImage": "https://c.biztoc.com/p/55092303dd86f5cd/og.webp",
+    "publishedAt": "2023-05-13T01:12:07Z",
+    "content": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain aud… [+318 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "deadline.com",
+    "title": "Michael J. Fox Says Key ‘Once Upon A Time…In Hollywood’ Scene Led To His Retirement",
+    "description": "A scene in Quentin Tarantino’s Once Upon a Time…In Hollywood resonated with Michael J. Fox and came rushing back when he decided to retire from acting in 2020. Speaking to Empire Magazine, Fox said he — like the Tarantino film’s Rick Dalton character (played …",
+    "url": "https://biztoc.com/x/e25458386588a019",
+    "urlToImage": "https://c.biztoc.com/p/e25458386588a019/og.webp",
+    "publishedAt": "2023-05-13T04:04:09Z",
+    "content": "A scene in Quentin Tarantinos Once Upon a TimeIn Hollywood resonated with Michael J. Fox and came rushing back when he decided to retire from acting in 2020.Speaking to Empire Magazine, Fox said he l… [+306 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "Vereinfachter Zugang zu Kurzarbeitergeld soll Ende Juni auslaufen",
+    "description": "Mehr als eine Million Menschen haben vereinfachte Kurzarbeit-Regelungen während der Corona-Krise vor der Arbeitslosigkeit bewahrt, so die Schätzung des Arbeitsministers. Wegen des aktuell hohen Beschäftigungsstandes sollen künftig wieder strengere Anforderung…",
+    "url": "https://www.welt.de/politik/deutschland/article245322548/Kurzarbeitergeld-Vereinfachter-Zugang-soll-Ende-Juni-auslaufen.html",
+    "urlToImage": "https://img.welt.de/img/bildergalerien/mobile245322552/7851352517-ci16x9-w1200/Press-conference-at-the-Chancellery-in-Berlin.jpg",
+    "publishedAt": "2023-05-13T00:15:38Z",
+    "content": "Der vereinfachte Zugang zum Kurzarbeitergeld wird nach den Worten von Bundesarbeitsminister Hubertus Heil (SPD) nicht über Ende Juni hinaus verlängert. Die wirtschaftliche Entwicklung und auch die La… [+1976 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "FDP stellt vorgesehene Erleichterungen beim Familiennachzug von Flüchtlingen infrage",
+    "description": "Der Koalitionsvertrag der Ampel-Regierung sieht Erleichterungen bei der Familienzusammenführung von Flüchtlingen vor. In der FDP werden Zweifel an dem Vorhaben laut: Angesichts der hohen Zahl ankommender Migranten brauche es zunächst ein Gesamtkonzept.",
+    "url": "https://www.welt.de/politik/deutschland/article245322584/Familiennachzug-FDP-bremst-bei-Erleichterungen-fuer-Fluechtlinge.html",
+    "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile245322600/4991353027-ci16x9-w1200/Fluechtlingsunterkunft-in-Bensheim.jpg",
+    "publishedAt": "2023-05-13T03:14:28Z",
+    "content": "Die FDP zeigt sich bei den grundsätzlich vorgesehenen Erleichterungen für den Familiennachzug zu Flüchtlingen zurückhaltend. Mit Blick auf die entsprechende Vereinbarung im Koalitionsvertrag sagte FD… [+2809 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Gavin Madeley",
+    "title": "The Wicker Man had terrifying consequences as director's son reveals it destroyed their family",
+    "description": "His father was responsible for one of the most terrifying films ever made with one of the most visually arresting denouements in movie history.",
+    "url": "https://www.dailymail.co.uk/news/article-12079053/The-Wicker-Man-terrifying-consequences-directors-son-reveals-destroyed-family.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2023/05/13/01/70933545-0-image-a-107_1683938211208.jpg",
+    "publishedAt": "2023-05-13T00:45:57Z",
+    "content": "His father was responsible for one of the most terrifying films ever made with one of the most visually arresting denouements in movie history. \r\nAnd yet, ask Justin Hardy what he thinks about The Wi… [+12468 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Toronto Star"
+    },
+    "author": "Jeremy Nuttall - Staff Reporter",
+    "title": "What this Hong Kong radio host and activist wants Canada to know about Beijing",
+    "description": "‘This fear is not enough to shut me up,’ says Edmund Wan — known as Giggs — who arrived in Vancouver this year after his release from a Hong Kong jail.",
+    "url": "https://www.thestar.com/news/canada/2023/05/12/what-this-hong-kong-radio-host-and-activist-wants-canada-to-know-about-beijing.html",
+    "urlToImage": "https://images.thestarimages.com/_pdns-dbw95Zt2Vg-bTv-4NuL-8=/1200x800/smart/filters:cb(1683940573121):format(webp)/https://www.thestar.com/content/dam/thestar/news/canada/2023/05/12/what-this-hong-kong-radio-host-and-activist-wants-canada-to-know-about-beijing/hong_kong.jpg",
+    "publishedAt": "2023-05-13T01:16:12Z",
+    "content": "VANCOUVER—At 30 C in May, the weather on a Metro Vancouver golf course patio feels more suited to Hong Kong, as warm air hovers around the tables and chairs not far from where golfers practise their … [+4942 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slickdeals.net"
+    },
+    "author": "chaks9",
+    "title": "MacBook Pro (16-inch) - Apple M1 Pro Chip with 10-Core CPU and 16-Core GPU, 512GB SSD Space Gray $1499.97 at Costco InStore (YMMV)",
+    "description": "Costco Wholesale has for their Members: Apple MacBook Pro 16\" M1 Pro Chip Laptop (2021, Space Gray, MK1E3LL/A) for $1499.97 (In-Store) - YMMV. \n \nNote, be sure to select Space Gray Color on product...",
+    "url": "https://slickdeals.net/f/16647713-macbook-pro-16-inch-apple-m1-pro-chip-with-10-core-cpu-and-16-core-gpu-512gb-ssd-space-gray-1499-97-at-costco-instore-ymmv",
+    "urlToImage": "https://static.slickdealscdn.com/attachment/1/3/3/9/0/6/2/3/13547288.attach",
+    "publishedAt": "2023-05-13T02:13:46Z",
+    "content": "Costco Wholesale has for their Members: Apple MacBook Pro 16\" M1 Pro Chip Laptop (2021, Space Gray, MK1E3LL/A) for $1499.97 (In-Store) - YMMV.Note, be sure to select Space Gray Color on product page.… [+438 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "UPROXX"
+    },
+    "author": "Bill DiFilippo",
+    "title": "A Brutal Jalen Brunson Turnover Ended The Knicks Hopes Of Forcing A Game 7 Against The Heat",
+    "description": "ESPN\r\n\n\nBrunson's outstanding night ended with turnover.",
+    "url": "https://uproxx.com/dimemag/jalen-brunson-turnover-knicks-heat-playoffs-video/",
+    "urlToImage": "https://uproxx.com/wp-content/uploads/2023/05/2023-05-12_21-20-17.jpg?w=1024",
+    "publishedAt": "2023-05-13T02:30:29Z",
+    "content": "The New York Knicks’ season came to an end on Friday night in Miami. Despite racing out of the gates and leading by as many as 14 points in the first quarter, New York was unable to beat the Heat in … [+1407 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Генеральный директор TOJOY Гэ Цзюнь выступил с речью об экономике совместного потребления",
+    "description": "ПЕКИН, 13 мая 2023 г. /PRNewswire/ -- С по 1 мая 2023 года в Абу-Даби, столице ОАЭ, проводился 12- ежегодный инвестиционный форум (IAM). Гэ Цзюнь (Ge Jun), глобальный генеральный директор TOJOY Shared Holding Group, был приглашен обсудить изменение инвестицио…",
+    "url": "https://www.prnewswire.com/news-releases/--tojoy----------301823837.html",
+    "urlToImage": "https://mma.prnewswire.com/media/2076037/image_846138_50298848.jpg?p=facebook",
+    "publishedAt": "2023-05-13T00:13:00Z",
+    "content": ", 13 2023 . /PRNewswire/ -- 1 2023 -, , 12- (IAM). (Ge Jun), TOJOY Shared Holding Group, , , , .\r\n« , , , », « », .\r\n « » 2023 Hurun. 1300 «», 666 (48%) , 316 (23%) . , , «» , , . , , «».\r\n« ». , « 2… [+368 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Excite.co.jp"
+    },
+    "author": "MAC お宝鑑定団 blog（羅針盤）",
+    "title": "Apple Premium ResellerのC smart、Apple Watch購入でアクセサリプレゼントキャンペーンを実施（5/28まで）",
+    "description": "Csmart：ちょっといいニュースです。ApplePremiumResellerのCsmartが、オンラインストアにて、対象のAppleWatch製品とAppleCareを同時購入でガラスフィルム一体...",
+    "url": "https://www.excite.co.jp/news/article/Macotakara_44738/",
+    "urlToImage": "https://s.eximg.jp/exnews/logo/noimg_1200x630_trend-topic.jpg",
+    "publishedAt": "2023-05-13T01:24:00Z",
+    "content": "AmazonJOOPSHEELightningUSB-CSD/USBAP-A011,699"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "WolffromtheWest",
+    "title": "Ugreen GaN 45W: обзор компактного двухпортового зарядного устройства",
+    "description": "Ugreen CD294 – это небольшое ЗУ с поддержкой большого количества протоколов быстрой зарядки и возможностью \"быстро\" заряжать оба подключенных устройства.Читать дальше",
+    "url": "https://www.ixbt.com/live/supply/ugreen_18.html",
+    "urlToImage": "https://img.ixbt.site/live/topics/preview/00/04/25/29/093d8c0939.jpg",
+    "publishedAt": "2023-05-13T00:43:24Z",
+    "content": "Ugreen CD294 \"\" .\r\n<ul><li>\r\n : Ugreen\r\n </li><li>\r\n : CD294\r\n </li><li>\r\n : 2-Port GaN 45W Charger\r\n </li><li>\r\n : CCX\r\n </li><li>\r\n : \r\n </li><li>\r\n : 100-240V, 50/60Hz, 1.2A Max\r\n </li><li>\r\n : 45… [+910 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lavozdegalicia.es"
+    },
+    "author": "m. m. r.",
+    "title": "Michael J. Fox cuenta en una docuserie cómo es su vida con párkinson",
+    "description": "En la cinta, disponible en Apple TV+, el actor huye del victimismo y reivindica la importancia de «buscar la parte divertida de las cosas»",
+    "url": "https://www.lavozdegalicia.es/noticia/series/2023/05/13/actor-noventa-convive-parkinson/0003_202305G13P59993.htm",
+    "urlToImage": "https://www.lavozdegalicia.es/default/2023/05/12/00121683902701501826854/Foto/j12y3053.jpg",
+    "publishedAt": "2023-05-13T03:00:00Z",
+    "content": "Michael J. Fox se convirti en una estrella gracias a la serie Enredos de familia y a la saga cinematogrfica Regreso al futuro, pero con solo 29 aos le diagnosticaron prkinson. Todo eso lo cuenta en u… [+2595 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "feedfeeder",
+    "title": "Apple already anticipating more Reality Pro headset delays - 9to5Mac",
+    "description": "Apple already anticipating more Reality Pro headset delays9to5Mac Apple Is Breaking Its Own Rules With a New HeadsetThe Wall Street Journal Apple reportedly set to unveil its mixed-reality headsetYahoo Finance Will Apple Change VR Forever?Entrepreneur Apple R…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=170938761",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T02:53:17Z",
+    "content": "Real programmers don't write in BASIC. Actually, no programmers write in\r\nBASIC after reaching puberty."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WFMYNews2.com"
+    },
+    "author": "Daniel Crews",
+    "title": "When does the Caesars casino open in Danville?",
+    "description": "The temporary location opens Monday, May 15 at 10 a.m. The permanent resort is still under construction and remains on track to open in late 2024.",
+    "url": "https://www.wfmynews2.com/article/entertainment/caesers-temporary-casino-opening-in-danville-permanent-building-opens-2024/83-1072d5a7-51e7-4a0b-b42a-20cc0a192884",
+    "urlToImage": "https://media.wfmynews2.com/assets/WFMY/images/c32d5710-ee36-482b-b8db-a457d7ca14dc/c32d5710-ee36-482b-b8db-a457d7ca14dc_1140x641.jpg",
+    "publishedAt": "2023-05-13T00:15:47Z",
+    "content": "DANVILLE, Va. This corner of Bishop and Main in Danville was home to Dan River Mill for decades. \r\nGenerations of families worked in the textile industry throughout the city. \r\nNow the property has b… [+2456 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Goodereader"
+    },
+    "author": "Buy Burma Mushrooms for sale online Toronto,",
+    "title": "Comment on Apple’s Price Fixing Suit May Have Hurt Indie Authors by Buy Burma Mushrooms for sale online Toronto,",
+    "description": "... [Trackback]\n\n[...] Read More Information here to that Topic: goodereader.com/blog/electronic-readers/apples-price-fixing-suit-may-have-hurt-indie-authors [...]",
+    "url": "https://goodereader.com/blog/electronic-readers/apples-price-fixing-suit-may-have-hurt-indie-authors",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T00:22:18Z",
+    "content": "Apple and five of the Big Six publishers are still undergoing a Department of Justice investigation into an alleged price fixing agreement in order to muscle out Amazons 90% control of the ebook mark… [+1943 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Goodereader"
+    },
+    "author": "what to use for mushroom substrate,",
+    "title": "Comment on Adobe’s new Photoshop app for the iPad to be ready next month by what to use for mushroom substrate,",
+    "description": "... [Trackback]\n\n[...] Find More to that Topic: goodereader.com/blog/tablet-slates/adobes-new-photoshop-app-for-the-ipad-to-be-ready-next-month [...]",
+    "url": "https://goodereader.com/blog/tablet-slates/adobes-new-photoshop-app-for-the-ipad-to-be-ready-next-month",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T00:13:56Z",
+    "content": "While there is no dearth of photo editing apps for the iPad, the one photo editing software that so far has not been able to recreate the success in the Apple App Store that is has off the iPad platf… [+1987 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Goodereader"
+    },
+    "author": "Buy Psilocybe Azurescens Mushroom Australia,",
+    "title": "Comment on Amazon Introduces New Parental Dashboard for Kindle Freetime by Buy Psilocybe Azurescens Mushroom Australia,",
+    "description": "... [Trackback]\n\n[...] Read More Info here to that Topic: goodereader.com/blog/spotlight-on-android/amazon-introduces-new-parental-dashboard-for-kindle-freetime [...]",
+    "url": "https://goodereader.com/blog/spotlight-on-android/amazon-introduces-new-parental-dashboard-for-kindle-freetime",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T02:04:03Z",
+    "content": "Amazon has introduced a new parental dashboard for the free and paid version of Kindle Freetime. This new system allows parents to see exactly how their kids are spending their time while on Fire dev… [+1186 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Goodereader"
+    },
+    "author": "Buy original Punch Bar,",
+    "title": "Comment on New Attacks Against Amazon’s International Expansion by Buy original Punch Bar,",
+    "description": "... [Trackback]\n\n[...] Find More Info here on that Topic: goodereader.com/blog/e-book-news/new-attacks-against-amazons-international-expansion [...]",
+    "url": "https://goodereader.com/blog/e-book-news/new-attacks-against-amazons-international-expansion",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T00:45:53Z",
+    "content": "Amazon bashing is nothing new, and it’s certainly a popular topic at events where publishers have an open format to discuss the state of the industry. But what does it say about a company when its cu… [+2066 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Goodereader"
+    },
+    "author": "one up trefoils mushroom,",
+    "title": "Comment on The Atavist is Closing their Mobile App by one up trefoils mushroom,",
+    "description": "... [Trackback]\n\n[...] Read More Information here to that Topic: goodereader.com/blog/digital-magazine-news/the-atavist-is-closing-their-mobile-app [...]",
+    "url": "https://goodereader.com/blog/digital-magazine-news/the-atavist-is-closing-their-mobile-app",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T00:06:24Z",
+    "content": "The Atavist publishes a monthly magazine and has a self-publishing portal where tens of thousands of storytellers, from giant companies to small nonprofits create their own branded magazines every mo… [+2177 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Goodereader"
+    },
+    "author": "4 aco dmt hyperreal,",
+    "title": "Comment on Shop e-Readers Offering Pre-Orders on Nook 2 and Kobo Touch by 4 aco dmt hyperreal,",
+    "description": "... [Trackback]\n\n[...] Find More on that Topic: goodereader.com/blog/electronic-readers/shop-e-readers-offering-pre-orders-on-nook-2-and-kobo-touch [...]",
+    "url": "https://goodereader.com/blog/electronic-readers/shop-e-readers-offering-pre-orders-on-nook-2-and-kobo-touch",
+    "urlToImage": null,
+    "publishedAt": "2023-05-13T02:00:59Z",
+    "content": "Sometimes when you live in a country like Canada, UK, Europe, Australia or New Zealand, you might get the short end of the stick when it comes to new gadgets. Amazon is notorious for not shipping to … [+3698 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Khabarhub.com"
+    },
+    "author": "Khabarhub",
+    "title": "Apple to launch first online store in Vietnam",
+    "description": "VIETNAM: Apple will launch its first online store in Vietnam next week, the company said Friday, hoping to cash in on the country’s young and tech-savvy population. The iPhone maker is among a host of global tech giants including Intel, Samsung and LG that ha…",
+    "url": "https://english.khabarhub.com/2023/13/303666/",
+    "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/05/Vietnam_Apple_AFP.jpg",
+    "publishedAt": "2023-05-13T01:06:46Z",
+    "content": "A woman walks past a shop selling latest Apple iPhones in downtown Hanoi/File Photo: AFP\r\nVIETNAM: Apple will launch its first online store in Vietnam next week, the company said Friday, hoping to ca… [+1241 chars]"
+    }
+    ]
+    }
