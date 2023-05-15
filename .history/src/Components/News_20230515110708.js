@@ -1,9 +1,8 @@
 import React, { Component } from 'react'
 import NewsaItem from './NewsaItem';
 import Spinner from './Spinner';
-import PropTypes  from 'prop-types';
 export class News extends Component {
-    
+   
     constructor(){
         super();
         this.state={

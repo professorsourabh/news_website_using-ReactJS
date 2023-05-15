@@ -10,9 +10,8 @@ export default class App extends Component {
       <div>
         
         <NavBar/>
-        <News country="us"/>
+        <News country="in"/>
       </div>
     )
   }
 }
-
