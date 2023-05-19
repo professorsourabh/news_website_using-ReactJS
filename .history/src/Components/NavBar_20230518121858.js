@@ -1,4 +1,3 @@
-// NavBar.js
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
@@ -8,9 +7,9 @@ export class NavBar extends Component {
       <div>
         <nav className="navbar navbar-expand-md bg-body-dark bg-dark text-center">
           <div className="container-fluid">
-            <Link className="navbar-brand text-light" to="/">
+            <a className="navbar-brand text-light" href="/">
               MT News
-            </Link>
+            </a>
             <button
               className="navbar-toggler"
               type="button"
@@ -26,38 +25,43 @@ export class NavBar extends Component {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/">
+                  <Link className="nav-link text-light" to="/" aria-current="page">
                     Home
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/business">
+                  <Link className="nav-link text-light" to="/Business" aria-current="page">
                     Business
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/news/Entertainment">
+                  <Link className="nav-link text-light" to="/Entertainment" aria-current="page">
                     Entertainment
                   </Link>
                 </li>
+                {/* <li className="nav-item">
+                  <Link className="nav-link text-light" to="/General" aria-current="page">
+                    General
+                  </Link>
+                </li> */}
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/health">
+                  <Link className="nav-link text-light" to="/Health" aria-current="page">
                     Health
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/science">
+                  <Link className="nav-link text-light" to="/Science" aria-current="page">
                     Science
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/sports">
+                  <Link className="nav-link text-light" to="/Sports" aria-current="page">
                     Sports
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link text-light" to="/technology">
+                  <Link className="nav-link text-light" to="/Technology" aria-current="page">
                     Technology
                   </Link>
                 </li>
