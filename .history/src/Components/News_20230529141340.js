@@ -14,9 +14,6 @@ export class News extends Component {
     country: PropTypes.string,
     category: PropTypes.string,
   };
-  capitalizeFirstLetter=(string)=> {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-}
 
   constructor(props) {
     super(props);
@@ -25,7 +22,7 @@ export class News extends Component {
       loading: false,
       page:1
     };
-    document.title=`MT NEWS - ${this.props.category}`;
+    document.title=`MT NEWS - ${category}`;
   }
 
   async componentDidMount() {
@@ -93,9 +90,7 @@ export class News extends Component {
     return (
       <div className="container my-3">
         <h1 className="text-center" style={{ margin: '35px 0px' }}>
-          MT News - Top Headlines on {function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-}(this.props.category)}
+          MT News - Top Headlines
         </h1>
 
         {loading ? (

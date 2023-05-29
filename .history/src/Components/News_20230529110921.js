@@ -14,9 +14,6 @@ export class News extends Component {
     country: PropTypes.string,
     category: PropTypes.string,
   };
-  capitalizeFirstLetter=(string)=> {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-}
 
   constructor(props) {
     super(props);
@@ -25,7 +22,6 @@ export class News extends Component {
       loading: false,
       page:1
     };
-    document.title=`MT NEWS - ${this.props.category}`;
   }
 
   async componentDidMount() {
@@ -74,7 +70,7 @@ export class News extends Component {
   fetchArticles = async () => {
     const { country, category } = this.props;
     const apiKey = '6de024851937497c9017d3f0f0e104a4'; // Replace with your NewsAPI API key
-    
+    const page=1;
     try {
       this.setState({ loading: true });
       const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=${apiKey}&pageSize=20`;
@@ -93,9 +89,7 @@ export class News extends Component {
     return (
       <div className="container my-3">
         <h1 className="text-center" style={{ margin: '35px 0px' }}>
-          MT News - Top Headlines on {function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-}(this.props.category)}
+          MT News - Top Headlines
         </h1>
 
         {loading ? (
@@ -106,9 +100,7 @@ export class News extends Component {
               <div className="col-md-4" key={article.url}>
                 <NewsaItem
                   title={article.title ? article.title : ''}
-                  description={article.description ? article.description.slice(0, 88) : '' }author={article.author ? article.author : 'Unknown'}
-                  date={article.publishedAt ? article.publishedAt : ''}
-                  source={article.source}
+                  description={article.description ? article.description.slice(0, 88) : '' }author={article.author ? article.author : ''}
                   imageUrl={
                     article.urlToImage ||
                     'https://img.etimg.com/thumb/msid-100188906,width-1070,height-580,imgsize-113958,overlay-etmarkets/photo.jpg'

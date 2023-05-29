@@ -12,7 +12,7 @@ export default class App extends Component {
           <NavBar />
 
           <Routes>
-            <Route path="/" element={<News category="general"/>} />
+            <Route path="/" element={<News />} />
             <Route path="/business" element={<News category="business" />} />
             <Route path="/news/Entertainment" element={<News category="entertainment" />} />
             <Route path="/health" element={<News category="health" />} />
